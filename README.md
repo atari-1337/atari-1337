@@ -1,5 +1,5 @@
 <h2 align="center">
-    Hello there! I am <strong>Ethan</strong>. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+    Hello there! I am <strong>Raven</strong>. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h2>
 <p align="center">
     I am experienced with Lua, Python, CSS & HTML and I'm currently learning both Java & JavaScript by making small projects.
@@ -19,7 +19,7 @@
         <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
     </a>
     &nbsp;
-    <a href="https://twitter.com/ethanmcdonagh09/">
+    <a href="https://twitter.com/realravenx/">
         <img src="./assets/icons/other/twitter-solid.svg/" width="25px" />
     </a>
     &nbsp;
