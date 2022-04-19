@@ -2,7 +2,7 @@
     Hello there! I am <strong>Atari</strong>. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h2>
 <p align="center">
-    I am experienced with Lua, C#, CSS & HTML and I'm currently learning both Java & JavaScript by making small projects.
+    I am experienced with Lua, C#, CSS & HTML.
 <br>
 <br>
 <a href="https://github.com/atari-1337/">
