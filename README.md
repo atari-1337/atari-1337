@@ -15,12 +15,8 @@
         <img src="./assets/icons/other/github-solid.svg/" width="25px" />
     </a>
     &nbsp;
-    <a href="https://discord.com/users/615158274823684146">
+    <a href="https://discord.com/users/719613575882080406">
         <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
-    </a>
-    &nbsp;
-    <a href="https://twitter.com/realravenx/">
-        <img src="./assets/icons/other/twitter-solid.svg/" width="25px" />
     </a>
     &nbsp;
     <a href="https://www.youtube.com/channel/UCBMRlppVfrEzAd0z_WhO7Cw">
