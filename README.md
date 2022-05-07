@@ -3,6 +3,7 @@
 </h2>
 <p align="center">
     I am experienced with Lua, C#, CSS & HTML.
+    Learning Java & C++.
 <br>
 <br>
 <a href="https://github.com/atari-1337/">
