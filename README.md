@@ -3,6 +3,7 @@
 </h2>
 <p align="center">
     I am experienced with Lua, C#, CSS & HTML.
+<br>
     Learning Java & C++.
 <br>
 <br>
