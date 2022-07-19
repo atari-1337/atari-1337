@@ -28,6 +28,11 @@
 </p>
 <hr/>
 <p align="center">
+<br>
+<a href="https://discord.com/users/719613575882080406">
+      <img src="https://lanyard.cnrad.dev/api/719613575882080406" />
+</a>
+</br>
     <a href="https://github.com/atari-1337/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=atari-1337&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
   </a> 
